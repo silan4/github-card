@@ -4,7 +4,6 @@
 
 - HTML
 - CSS
-- SCSS
 - JavaScript
 
   ![Uploading github.gif…]()
